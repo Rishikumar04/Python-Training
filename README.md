@@ -1,3 +1,2 @@
 # Python-Training
-My Journey of learning Python
-Assessement in Python
+My Journey of learning Python.
